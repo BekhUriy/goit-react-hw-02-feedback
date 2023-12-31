@@ -1,0 +1,15 @@
+/* feedbackOptions.css */
+.feedback-options button {
+  margin: 5px;
+  padding: 8px 12px;
+  font-size: 14px;
+  cursor: pointer;
+  border: none;
+  border-radius: 4px;
+  background-color: #007bff;
+  color: white;
+}
+
+.feedback-options button:hover {
+  background-color: #0056b3;
+}
